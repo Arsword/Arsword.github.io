@@ -1,1 +1,11 @@
-#Background{ background-color: brown }
+h3{
+	color:green;
+	font_size:12px;
+}
+p{
+	color:blue;
+}
+
+#yes{
+	color:orange;
+}
