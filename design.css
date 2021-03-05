@@ -7,23 +7,32 @@ body {
 	margin: 0;
 	font-family: arial;
 }
+
+h3{
+  background-color: dodgerblue;
+  color: white;
+}
+.header {
+  background-color: lightcyan;
+  padding: 20px;
+  text-align: center;
+}
+
 .container {
   margin: auto;
-  background-color: AliceBlue;
+  background-color: ;
   width: 400px;
-  height: 650px;
+  height: 690px;
   border: 15px solid lightskyblue;
   padding: 20x;
   text-align:center
 }
 .piccontainer {
   margin: auto;
-  background-color: AliceBlue;
   width: 375px;
   height: 290px;
   border: 15px solid lightskyblue;
   padding: 20x;
-  text-align:center
 }
 .column {
   float: left;
