@@ -1,9 +1,12 @@
-body{
-	background-color: PaleTurquoise;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: PaleTurquoise;
 	margin: 0;
 	font-family: arial;
 }
-
 .container {
   margin: auto:
   background-color: AliceBlue;
@@ -13,13 +16,14 @@ body{
   padding: 20x;
   text-align:center
 }
-
-p{
-	word-spacing: 0px;
-}
-
-* {
-  box-sizing: border-box;
+.piccontainer {
+  margin: auto:
+  background-color: AliceBlue;
+  width: 375px;
+  height: 290px;
+  border: 15px solid lightskyblue;
+  padding: 20x;
+  text-align:center
 }
 .column {
   float: left;
@@ -32,6 +36,7 @@ p{
   display: table;
   clear: both;
 }
+
 @media screen and (max-width:600px) {
   .column {
     width: 100%;
