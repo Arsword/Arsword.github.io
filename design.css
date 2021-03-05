@@ -6,11 +6,11 @@ body{
 div {
   margin-top: 50px;
   margin-bottom: 100px;
-  margin-right: 150px;
+  margin-right: 200px;
   margin-left: 80px;
   background-color: AliceBlue;
   width: 300px;
-  height: 400px;
+  height: 700px;
   border: 15px solid lightskyblue;
   padding: 20x;
   text-align:center
@@ -21,8 +21,8 @@ p{
 }
 
 div2{
-  margin-top: 50px;
+  margin-top: -100px;
   margin-bottom: 100px;
-  margin-right: 150px;
+  margin-right: 0px;
   margin-left: 170px;
 }
