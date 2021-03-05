@@ -1,5 +1,5 @@
 body{
-	background-color: azure;
+	background-color: RosyBrown;
 	font-family: arial;
 }
 
@@ -7,21 +7,21 @@ div {
   margin-top: 50px;
   margin-bottom: 100px;
   margin-right: 150px;
-  margin-left: 150px;
+  margin-left: 80px;
   background-color: AliceBlue;
   width: 300px;
   height: 400px;
   border: 15px solid lightskyblue;
-  padding: 100px;
+  padding: 20x;
 }
 
 p{
 	word-spacing: -2px;
 }
 
-
-.right{
-	display: block;
-	float: right;
+div2{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 170px;
 }
-
