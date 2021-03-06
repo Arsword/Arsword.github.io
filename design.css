@@ -34,6 +34,14 @@ h3{
   border: 15px solid lightskyblue;
   padding: 20x;
 }
+.container2 {
+  margin: auto;
+  width: 375px;
+  height: 255px;
+  border: 15px solid lightskyblue;
+  padding: 20x;
+}
+
 .column {
   float: left;
   width: 50%;
